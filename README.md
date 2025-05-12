@@ -1,8 +1,13 @@
+- Testando o **gitdiagram** diagrama de uma requisição 
+
+![diagram (2).png](https://github.com/user-attachments/assets/97ba4aa3-3227-4ce1-9104-5730c876b521)
+
+
+
 README: Projetos feito para testar e praticar!!
 
 ```markdown
 # Easy Finance Project
-
 Bem-vindo ao **Easy Finance Project**! Este projeto foi criado para facilitar o gerenciamento financeiro pessoal, ajudando os usuários a organizar suas finanças de forma simples e eficiente.
 
 ## 🚀 Funcionalidades
